@@ -7,3 +7,5 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The gam
 - HTML
 - CSS
 - JavaScript
+
+[Link](https://manojku9.github.io/TicTacToe/)
